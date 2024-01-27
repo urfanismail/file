@@ -1,0 +1,444 @@
+<configuration xmlns="http://slideshow.digital/configuration/v4_7">
+   <audioSchedule/>
+   <downloads/>
+   <fileDatas/>
+   <!-- Created by Slideshow - Free Digital Signage app for Android
+https://slideshow.digital/
+
+Be careful when modifying this XML configuration by hand or when restoring it to a different app version.
+Timestamp: 2024-01-28T00:08:08.042+07:00[Asia/Jakarta] -->
+   <info>
+      <description>URFAN</description>
+      <exported>2024-01-28T00:08:07</exported>
+      <version>4.7.3</version>
+   </info>
+   <items>
+      <item description="Color Bars" fileName="/content/colorbars.mp4" id="33" itemType="IMAGE">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Disfo Jumat" fileName="content/jumat/*" id="43" itemType="ALPHABETICALLY">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Disfo Kamis" fileName="content/kamis/*" id="42" itemType="ALPHABETICALLY">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Disfo Rabu" fileName="/content/rabu/*" id="41" itemType="ALPHABETICALLY">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Disfo Selasa" fileName="/content/selasa/*" id="40" itemType="ALPHABETICALLY">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Disfo Senin" fileName="/content/senin/*" id="34" itemType="ALPHABETICALLY">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Hymne SMA" fileName="/content/hymnesma.mp4" id="35" itemType="IMAGE">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Indonesia Raya" fileName="/content/idraya.mp4" id="1" itemType="IMAGE">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Jam" fileName="" id="38" itemType="DATE_TIME">
+         <property key="fontFamily" value="default"/>
+         <property key="dateFormat" value=""/>
+         <property key="timeFormat" value="HH:mm"/>
+         <property key="boldTime" value="true"/>
+         <property key="locale" value="in"/>
+         <property key="textColor" value="#FFFFFFFF"/>
+      </item>
+      <item description="Logo" fileName="/content/logo.png" id="37" itemType="IMAGE">
+         <property key="animationSpeed" value="0"/>
+         <property key="animationTypes" value=""/>
+         <property key="imageBackgroundType" value="NONE"/>
+         <property key="scrollSpeed" value="5"/>
+         <property key="textColor" value="#333333"/>
+         <property key="descText" value=""/>
+      </item>
+      <item description="Teks Disfo" fileName="" id="48" itemType="RSS">
+         <property key="fontFamily" value="default"/>
+         <property key="showTitle" value="true"/>
+         <property key="rssReaderUrl" value="https://file.urfan.web.id/disfo.xml"/>
+         <property key="showMessage" value="true"/>
+         <property key="fontSize" value=""/>
+         <property key="scrollSpeed" value="3"/>
+         <property key="removeXml" value="null"/>
+         <property key="textColor" value="#FFFFFF"/>
+         <property key="rssDisplayType" value="MARQUEE"/>
+      </item>
+      <item description="Teks Jumat" fileName="" id="47" itemType="RSS">
+         <property key="fontFamily" value="default"/>
+         <property key="showTitle" value="true"/>
+         <property key="rssReaderUrl" value="https://file.urfan.web.id/jumat.xml"/>
+         <property key="showMessage" value="true"/>
+         <property key="fontSize" value=""/>
+         <property key="scrollSpeed" value="3"/>
+         <property key="removeXml" value="null"/>
+         <property key="textColor" value="#FFFFFF"/>
+         <property key="rssDisplayType" value="MARQUEE"/>
+      </item>
+      <item description="Teks Kamis" fileName="" id="46" itemType="RSS">
+         <property key="fontFamily" value="default"/>
+         <property key="showTitle" value="true"/>
+         <property key="rssReaderUrl" value="https://file.urfan.web.id/kamis.xml"/>
+         <property key="showMessage" value="true"/>
+         <property key="fontSize" value=""/>
+         <property key="scrollSpeed" value="3"/>
+         <property key="removeXml" value="null"/>
+         <property key="textColor" value="#FFFFFF"/>
+         <property key="rssDisplayType" value="MARQUEE"/>
+      </item>
+      <item description="Teks Rabu" fileName="" id="45" itemType="RSS">
+         <property key="fontFamily" value="default"/>
+         <property key="showTitle" value="true"/>
+         <property key="rssReaderUrl" value="https://file.urfan.web.id/rabu.xml"/>
+         <property key="showMessage" value="true"/>
+         <property key="fontSize" value=""/>
+         <property key="scrollSpeed" value="3"/>
+         <property key="removeXml" value="null"/>
+         <property key="textColor" value="#FFFFFF"/>
+         <property key="rssDisplayType" value="MARQUEE"/>
+      </item>
+      <item description="Teks Selasa" fileName="" id="44" itemType="RSS">
+         <property key="fontFamily" value="default"/>
+         <property key="showTitle" value="true"/>
+         <property key="rssReaderUrl" value="https://file.urfan.web.id/selasa.xml"/>
+         <property key="showMessage" value="true"/>
+         <property key="fontSize" value=""/>
+         <property key="scrollSpeed" value="3"/>
+         <property key="removeXml" value="null"/>
+         <property key="textColor" value="#FFFFFF"/>
+         <property key="rssDisplayType" value="MARQUEE"/>
+      </item>
+      <item description="Teks Senin" fileName="" id="36" itemType="RSS">
+         <property key="fontFamily" value="default"/>
+         <property key="showTitle" value="true"/>
+         <property key="rssReaderUrl" value="https://file.urfan.web.id/senin.xml"/>
+         <property key="showMessage" value="true"/>
+         <property key="fontSize" value=""/>
+         <property key="scrollSpeed" value="3"/>
+         <property key="removeXml" value="null"/>
+         <property key="textColor" value="#FFFFFF"/>
+         <property key="rssDisplayType" value="MARQUEE"/>
+      </item>
+      <item description="Youtube" fileName="https://youtube.com/watch?v=ftAS3wozvQQ" id="39" itemType="YOUTUBE">
+         <property key="preferredQuality" value=""/>
+      </item>
+   </items>
+   <keyMappings>
+      <keyMapping actionDown="NEXT_ITEM" keyCode="4"/>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="7">
+         <property key="number" value="0"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="8">
+         <property key="number" value="1"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="9">
+         <property key="number" value="2"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="10">
+         <property key="number" value="3"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="11">
+         <property key="number" value="4"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="12">
+         <property key="number" value="5"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="13">
+         <property key="number" value="6"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="14">
+         <property key="number" value="7"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="15">
+         <property key="number" value="8"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="16">
+         <property key="number" value="9"/>
+      </keyMapping>
+      <keyMapping actionDown="PAUSE" actionUp="RESUME" keyCode="19"/>
+      <keyMapping actionDown="OPEN_LEFT_MENU" keyCode="20"/>
+      <keyMapping actionDown="PREVIOUS_ITEM" keyCode="21"/>
+      <keyMapping actionDown="NEXT_ITEM" keyCode="22"/>
+      <keyMapping actionDown="SHOW_HELP" keyCode="23"/>
+      <keyMapping actionDown="SHOW_BASIC_SETTINGS" keyCode="29"/>
+      <keyMapping actionDown="BEEP" keyCode="30"/>
+      <keyMapping actionDown="SHOW_ANDROID_DISPLAY_SETTINGS" keyCode="32"/>
+      <keyMapping actionDown="TOGGLE_FULLSCREEN" keyCode="34"/>
+      <keyMapping actionDown="SHOW_HELP" keyCode="36"/>
+      <keyMapping actionDown="SHOW_INFO" keyCode="37"/>
+      <keyMapping actionDown="ROTATE_SCREEN_LAYOUT" keyCode="40"/>
+      <keyMapping actionDown="RELOAD_APP" keyCode="46"/>
+      <keyMapping actionDown="SHOW_ANDROID_WIFI_SETTINGS" keyCode="47"/>
+      <keyMapping actionDown="SHOW_ADVANCED_SETTINGS" keyCode="51"/>
+      <keyMapping actionDown="SHOW_HELP" keyCode="62"/>
+      <keyMapping actionDown="DELETE_LAST_FILE" keyCode="63"/>
+      <keyMapping actionDown="OPEN_LEFT_MENU" keyCode="66"/>
+      <keyMapping actionDown="SHOW_INFO" keyCode="83"/>
+      <keyMapping actionDown="PAUSE_OR_RESUME" keyCode="85"/>
+      <keyMapping actionDown="NEXT_ITEM" keyCode="87"/>
+      <keyMapping actionDown="PREVIOUS_ITEM" keyCode="88"/>
+      <keyMapping actionDown="PREVIOUS_ITEM" keyCode="89"/>
+      <keyMapping actionDown="NEXT_ITEM" keyCode="90"/>
+      <keyMapping actionDown="CHANGE_CONTENT_LENGTH" keyCode="92">
+         <property key="diff" value="1"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_CONTENT_LENGTH" keyCode="93">
+         <property key="diff" value="-1"/>
+      </keyMapping>
+      <keyMapping actionDown="OPEN_LEFT_MENU" keyCode="111"/>
+      <keyMapping actionDown="RESUME" keyCode="126"/>
+      <keyMapping actionDown="PAUSE" keyCode="127"/>
+      <keyMapping actionDown="SHOW_HELP" keyCode="131"/>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="140">
+         <property key="number" value="10"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="141">
+         <property key="number" value="11"/>
+      </keyMapping>
+      <keyMapping actionDown="CHANGE_TO_PLAYLIST_NUMBER" keyCode="142">
+         <property key="number" value="12"/>
+      </keyMapping>
+      <keyMapping actionDown="OPEN_LEFT_MENU" keyCode="160"/>
+   </keyMappings>
+   <playlists>
+      <playlist action="LOOP_INDEFINITELY" id="33" musicType="VIDEO" name="Color Bars">
+         <content itemId="33" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="43" musicType="VIDEO" name="Disfo Jumat">
+         <content itemId="43" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="42" musicType="VIDEO" name="Disfo Kamis">
+         <content itemId="42" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="41" musicType="VIDEO" name="Disfo Rabu">
+         <content itemId="41" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="40" musicType="VIDEO" name="Disfo Selasa">
+         <content itemId="40" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="34" musicType="VIDEO" name="Disfo Senin">
+         <content itemId="34" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="35" musicType="VIDEO" name="Hymne SMA">
+         <content itemId="35" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="1" musicType="VIDEO" name="Indonesia Raya">
+         <content itemId="1" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="38" musicType="VIDEO" name="Jam">
+         <content itemId="38" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="37" musicType="VIDEO" name="Logo">
+         <content itemId="37" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="48" musicType="VIDEO" name="Teks Disfo">
+         <content itemId="48" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="47" musicType="VIDEO" name="Teks Jumat">
+         <content itemId="47" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="46" musicType="VIDEO" name="Teks Kamis">
+         <content itemId="46" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="45" musicType="VIDEO" name="Teks Rabu">
+         <content itemId="45" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="44" musicType="VIDEO" name="Teks Selasa">
+         <content itemId="44" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="36" musicType="VIDEO" name="Teks Senin">
+         <content itemId="36" length="10"/>
+      </playlist>
+      <playlist action="LOOP_INDEFINITELY" id="39" musicType="VIDEO" name="Youtube">
+         <content itemId="39" length="10"/>
+      </playlist>
+   </playlists>
+   <rssMessages/>
+   <screenLayouts>
+      <screenLayout id="1" interval="0" name="Default layout" rotation="0" screensaver="false">
+         <panel animationLength="0" animationType="NONE" backgroundColor="#000000ff" height="100.0" id="1" mainPanel="true" name="Whole screen" width="100.0" x="0.0" y="0.0">
+            <schedule friday="true" monday="false" playlistId="33" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="14:15:00" timeTo="23:59:00" tuesday="false" wednesday="false"/>
+            <schedule friday="true" monday="false" playlistId="1" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="14:13:00" timeTo="14:15:00" tuesday="false" wednesday="false"/>
+            <schedule friday="true" monday="false" playlistId="35" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="14:10:00" timeTo="14:13:00" tuesday="false" wednesday="false"/>
+            <schedule friday="false" monday="true" playlistId="33" priority="2" saturday="false" sunday="false" thursday="true" timeFrom="15:00:00" timeTo="23:59:00" tuesday="true" wednesday="true"/>
+            <schedule friday="false" monday="true" playlistId="1" priority="2" saturday="false" sunday="false" thursday="true" timeFrom="14:58:00" timeTo="15:00:00" tuesday="true" wednesday="true"/>
+            <schedule friday="false" monday="true" playlistId="35" priority="2" saturday="false" sunday="false" thursday="true" timeFrom="14:55:00" timeTo="14:58:00" tuesday="true" wednesday="true"/>
+            <schedule friday="false" monday="false" playlistId="33" priority="2" saturday="true" sunday="true" thursday="false" timeFrom="00:00:00" timeTo="23:59:00" tuesday="false" wednesday="false"/>
+            <schedule friday="true" monday="true" playlistId="1" priority="2" saturday="true" sunday="true" thursday="true" timeFrom="07:00:00" timeTo="07:02:00" tuesday="true" wednesday="true"/>
+            <schedule friday="true" monday="true" playlistId="33" priority="2" saturday="false" sunday="false" thursday="true" timeFrom="00:00:00" timeTo="07:00:00" tuesday="true" wednesday="true"/>
+            <schedule friday="true" monday="false" playlistId="43" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="07:02:00" timeTo="14:10:00" tuesday="false" wednesday="false"/>
+            <schedule friday="false" monday="false" playlistId="42" priority="2" saturday="false" sunday="false" thursday="true" timeFrom="07:02:00" timeTo="14:55:00" tuesday="false" wednesday="false"/>
+            <schedule friday="false" monday="false" playlistId="41" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="07:02:00" timeTo="14:55:00" tuesday="false" wednesday="true"/>
+            <schedule friday="false" monday="false" playlistId="40" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="07:02:00" timeTo="14:55:00" tuesday="true" wednesday="false"/>
+            <schedule friday="false" monday="true" playlistId="34" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="07:02:00" timeTo="14:55:00" tuesday="false" wednesday="false"/>
+         </panel>
+         <panel animationLength="0" animationType="NONE" backgroundColor="#000000" height="6.590000152587891" id="33" mainPanel="false" name="Lower screen" width="100.0" x="0.0" y="93.41000366210938">
+            <property key="strokeWidth" value="0"/>
+            <property key="color2" value="#0000FF"/>
+            <property key="radiusTopLeft" value="0"/>
+            <property key="radiusBottomRight" value="0"/>
+            <property key="radiusTopRight" value="0"/>
+            <property key="gradRadius" value="10"/>
+            <property key="strokeColor" value="#FFFFFF"/>
+            <property key="radiusBottomLeft" value="0"/>
+            <property key="gradOrient" value="TOP_BOTTOM"/>
+            <schedule friday="false" monday="false" playlistId="48" priority="2" saturday="true" sunday="true" thursday="false" timeFrom="00:00:00" timeTo="23:59:00" tuesday="false" wednesday="false"/>
+            <schedule friday="true" monday="false" playlistId="47" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="00:00:00" timeTo="23:59:00" tuesday="false" wednesday="false"/>
+            <schedule friday="false" monday="false" playlistId="46" priority="2" saturday="false" sunday="false" thursday="true" timeFrom="00:00:00" timeTo="23:59:00" tuesday="false" wednesday="false"/>
+            <schedule friday="false" monday="false" playlistId="45" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="00:00:00" timeTo="23:59:00" tuesday="false" wednesday="true"/>
+            <schedule friday="false" monday="false" playlistId="44" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="00:00:00" timeTo="23:59:00" tuesday="true" wednesday="false"/>
+            <schedule friday="false" monday="true" playlistId="36" priority="2" saturday="false" sunday="false" thursday="false" timeFrom="00:00:00" timeTo="23:59:00" tuesday="false" wednesday="false"/>
+         </panel>
+         <panel animationLength="0" animationType="NONE" backgroundColor="#000000" height="6.590000152587891" id="34" mainPanel="false" name="Time screen" width="7.46999979019165" x="0.0" y="93.41000366210938">
+            <property key="strokeWidth" value="0"/>
+            <property key="color2" value="#0000FF"/>
+            <property key="radiusTopLeft" value="0"/>
+            <property key="radiusBottomRight" value="0"/>
+            <property key="radiusTopRight" value="0"/>
+            <property key="gradRadius" value="10"/>
+            <property key="strokeColor" value="#FFFFFF"/>
+            <property key="radiusBottomLeft" value="0"/>
+            <property key="gradOrient" value="TOP_BOTTOM"/>
+            <schedule friday="true" monday="true" playlistId="38" priority="2" saturday="true" sunday="true" thursday="true" timeFrom="00:00:00" timeTo="23:59:00" tuesday="true" wednesday="true"/>
+         </panel>
+         <panel animationLength="0" animationType="NONE" backgroundColor="#000000" height="6.590000152587891" id="35" mainPanel="false" name="Logo screen" width="7.46999979019165" x="92.5199966430664" y="93.41000366210938">
+            <property key="strokeWidth" value="0"/>
+            <property key="color2" value="#0000FF"/>
+            <property key="radiusTopLeft" value="0"/>
+            <property key="radiusBottomRight" value="0"/>
+            <property key="radiusTopRight" value="0"/>
+            <property key="gradRadius" value="10"/>
+            <property key="strokeColor" value="#FFFFFF"/>
+            <property key="radiusBottomLeft" value="0"/>
+            <property key="gradOrient" value="TOP_BOTTOM"/>
+            <schedule friday="true" monday="true" playlistId="37" priority="2" saturday="true" sunday="true" thursday="true" timeFrom="00:00:00" timeTo="23:59:00" tuesday="true" wednesday="true"/>
+         </panel>
+         <schedule friday="true" monday="true" priority="2" saturday="true" sunday="true" thursday="true" timeFrom="00:00:00" timeTo="23:59:00" tuesday="true" wednesday="true"/>
+      </screenLayout>
+   </screenLayouts>
+   <settings>
+      <setting key="video_timeout" value="2147483647"/>
+      <setting key="weather_class" value="OPEN_METEO"/>
+      <setting key="weather_api_key" value=""/>
+      <setting key="grabber_refresh_rate" value=""/>
+      <setting key="default_volume" value=""/>
+      <setting key="device_name" value="URFAN"/>
+      <setting key="usb_mount_action" value="COPY"/>
+      <setting key="usb_copy_folder" value="slideshow"/>
+      <setting key="usb_target_folder" value="/"/>
+      <setting key="use_external_sdcard" value="false"/>
+      <setting key="external_storage_path" value=""/>
+      <setting key="web_services_enabled" value="true"/>
+      <setting key="start_at_boot" value="true"/>
+      <setting key="xls_body_style" value=""/>
+      <setting key="language" value="ENGLISH"/>
+      <setting key="file_data_checker_rate" value="18000"/>
+      <setting key="watchdog_reboot_time" value=""/>
+      <setting key="manual_playlist_timeout" value="3600"/>
+      <setting key="image_scale_type" value="FIT_CENTER"/>
+      <setting key="screen_orientation" value="LANDSCAPE"/>
+      <setting key="rotate_layout_periodically" value="false"/>
+      <setting key="disable_keyboard" value="false"/>
+      <setting key="rss_title_max_length" value="105"/>
+      <setting key="rss_message_max_length" value="215"/>
+      <setting key="enable_touch_gestures" value="true"/>
+      <setting key="http_port" value="80"/>
+      <setting key="https_port" value="443"/>
+      <setting key="ftp_port" value="21"/>
+      <setting key="enhanced_video_player" value="true"/>
+      <setting key="video_player_type" value="EXOPLAYER_TEXTURE_VIEW"/>
+      <setting key="external_config_import" value="false"/>
+      <setting key="web_view_zoom" value="0"/>
+      <setting key="password_protect_screen" value="false"/>
+      <setting key="use_screen_layout_intervals" value="false"/>
+      <setting key="disable_non_ssl_interfaces" value="false"/>
+      <setting key="after_start_script" value=""/>
+      <setting key="image_respect_orientation" value="true"/>
+      <setting key="web_view_disable_security" value="false"/>
+      <setting key="web_view_allow_local_api" value="false"/>
+      <setting key="lock_task_mode_after_start" value="false"/>
+      <setting key="mqtt_server_address" value=""/>
+      <setting key="mqtt_require_tls" value="false"/>
+      <setting key="mqtt_username" value=""/>
+      <setting key="mqtt_password" value="CRYPT:atjec9eRJaT6UD1/0riP9g=="/>
+      <setting key="mqtt_topic_prefix" value="SLIDESHOW"/>
+      <setting key="mqtt_use_websockets" value="false"/>
+      <setting key="device_token" value=""/>
+      <setting key="mqtt_report_data" value="false"/>
+      <setting key="mqtt_report_statistics" value="false"/>
+      <setting key="serial_mqtt_port_path" value=""/>
+      <setting key="serial_mqtt_port_rate" value="9600"/>
+      <setting key="serial_mqtt_port_data_bits" value="8"/>
+      <setting key="serial_mqtt_port_stop_bits" value="1"/>
+      <setting key="serial_mqtt_port_parity" value="0"/>
+      <setting key="video_input_compatibility_mode" value="false"/>
+      <setting key="screen_layout_refresh_wait" value="false"/>
+      <setting key="reboot_on_hdmi_plug_in" value="false"/>
+      <setting key="preload_items_in_playlist" value="false"/>
+      <setting key="playlist_change_reset_order" value="false"/>
+      <setting key="keep_wifi_on" value="true"/>
+      <setting key="face_detection_camera_id" value=""/>
+      <setting key="face_detection_rotation" value="0"/>
+      <setting key="face_detection_delay" value="800"/>
+      <setting key="mute_video_for_audio_playlist" value="false"/>
+      <setting key="communication_server_code" value=""/>
+      <setting key="communication_tracker_enabled" value="false"/>
+      <setting key="request_user_agent" value=""/>
+      <setting key="osc_enabled" value="false"/>
+      <setting key="osc_port" value="57110"/>
+      <setting key="osc_protocol" value="UDP"/>
+      <setting key="google_docs_convert_params" value=""/>
+      <setting key="allow_unsupported_file_types" value="false"/>
+      <setting key="youtube_show_controls" value="true"/>
+      <setting key="youtube_show_captions" value="false"/>
+      <setting key="https_disable_security" value="false"/>
+      <setting key="webview_clear_cache" value="true"/>
+      <setting key="screensaver_after_minutes" value=""/>
+      <setting key="webview_grant_permissions" value="false"/>
+      <setting key="keep_screen_on" value="true"/>
+   </settings>
+   <triggers code="" workspace="{}"/>
+   <users>
+      <user id="1" name="Default admin" password="FC64B7D0E9F93F6478AC63F7A40984214E3F943A" role="ADMIN" username="admin"/>
+   </users>
+</configuration>
